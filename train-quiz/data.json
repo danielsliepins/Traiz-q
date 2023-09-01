@@ -1,0 +1,319 @@
+{
+  "question": [
+    "Cik garš Gulbenes - Alūksnes šaursliežu dzelzceļa maršruts?",
+    "Kādu lokomotīvi izmanto regulāriem pasažieru pārvadājumiem pa maršrutu Gulbene - Alūksne?",
+    "Cik ilgu laiku Gulbenes - Alūksnes bānītis pavada ceļā no Gulbenes uz Alūksni mūsdienās?",
+    "Cik ilgu laiku Bānītis pavadīja ceļā no Gulbenes uz Alūksni 1930. gadā?",
+    "Vistālākā stacija, uz kuru varēja aizbraukt ar mazo bānīti no Gulbenes 1930. gadā?",
+    "Cik ilgu laiku Bānītis pavadīja ceļā no Gulbenes uz Valku 1930. gadā?",
+    "Kāds bija Bānīša līnijas Gulbene - Alūksne - Valka kopgarums?",
+    "Kāda robeža tika šķērsota, braucot ar Bānīti no Gulbenes uz Valku?",
+    "Cik Bānīša pieturas starp Gulbeni un Valku atradās Igaunijā?",
+    "Ar kādu vilcienu var atbraukt no Rīgas uz Gulbeni?",
+    "Kas mūsdienās atrodas Talsu stacijas ēkā?",
+    "Kāds bija kopējais ekspluatējamais valsts sliežu ceļu garums 1939. gadā?",
+    "Kāpēc nav iespējams ar vilcienu pa tiešo aizbraukt no Rīgas uz Berlīni?",
+    "Kāds sliežu platums ir šaursliežu dzelzceļa līnijā Gulbene - Alūksne?",
+    "Kāds spriegums ir Latvijā izmantojamiem elektrovilcieniem?",
+    "Kāds spriegums ir izmantojamiem tramvajiem Latvijā?",
+    "Kāds sliežu platums ir platsliežu dzelzceļa līnijās Latvijā?",
+    "Kāds sliežu platums ir platsliežu dzelzceļa līnijās Eiropā?",
+    "Cik lielu ātrumu sasniedza TGV elektrovilciens, uzstādot Pasaules rekordu 2007. gada 3. aprīlī?",
+    "Kurš ir garākais elektrovilcienu maršruts Latvijā?",
+    "Kurš ir garākais dīzeļvilcienu maršruts Latvijā?",
+    "Kurā Latvijas pilsētā sāka kursēt pirmais elektriskais tramvajs?",
+    "Kurā Latvijas pilsētā sāka kursēt pirmais zirgu tramvajs?",
+    "Kura ir vienīgā Latvijas pilsēta, kur kursē trolejbuss?",
+    "Cik bieža bija vilcienu kustība 1930. gadā no Rīgas uz Berlīni?",
+    "Līdz kurai Eiropas pilsētai 1930. gadā kursēja vilciens no Berlīnes, pie kura tika piekabināts tiešās satiksmes vagons?",
+    "Kad tika atklāta Ķemeru jaunbūvētā stacijas ēka?",
+    "Kas mūsdienās atrodas Zemgales stacijas ēkā?",
+    "Kāds sliežu platums ir Ventspilī kursējošajam mazbānītim?",
+    "Kādas sērijas tvaika lokomotīve pārvadā pasažierus Ventspils brīvdabas muzejā?",
+    "Kādas sērijas tvaika lokomotīve pārvada pasažierus dzelzceļa līnijas Gulbene - Alūksne maršrutā?",
+    "Kad tika atklāta vilcienu kustība starp Rīgu un Daugavpili?",
+    "Kad tika uzsākta dzelzceļa līnijas būvniecība starp Rīgu un Daugavpili?",
+    "Kad darbību uzsāka Jaunā Latvijas dzelzceļu pārvalde?",
+    "Kāds ir maksimāli pieļaujamais ātrums (atsevišķos posmos) pasažieru vilcieniem Latvijā?",
+    "Kāds ir maksimāli pieļaujamais ātrums (atsevišķos posmos) kravas vilcieniem Latvijā?",
+    "Kāds ir maksimāli pieļaujamais ātrums pasažieru vilcienam starp Madonu un Gulbeni?",
+    "Kādā maršrutā kursēja pirmie elektrovilcieni Latvijā?",
+    "Kad tika atklāta pirmā elektrificētā dzelzceļa līnija Latvijā?",
+    "Kad tika atklāta elektrovilcienu kustība uz Jelgavu?",
+    "Kāds ir izplatītākais dzelzceļa modeļu mērogs?",
+    "Kurā gadā Vācijas uzņēmums “Marklin” uzsāka dzelzceļa mēroga modeļu rūpniecisko ražošanu?",
+    "Kur atrodas vislielākais dzelzceļa mēroga makets?",
+    "Cik daudz vilcienu kursē lielākajā dzelzceļa mēroga maketā Hamburgā?",
+    "Kāds ir kopējais sliežu ceļu garums lielākajā dzelzceļa mēroga maketā Hamburgā?",
+    "Kāda bija vilciena biļetes cena 1930. gadā no Rīgas uz Berlīni pirmās klases vagonā?",
+    "Kāda bija vilciena biļetes cena 1930. gadā no Rīgas uz Gulbeni, braucot caur Pļaviņām trešās klases vagonā?",
+    "Kas ir retūrbiļete?",
+    "Kā sauc vagonu, kur pasažieri dodas baudīt ēdienu brauciena laikā?",
+    "Kāds starptautiskais vilciens pieturēja Gulbenē 1930. gadā?"  
+  ],
+  "answer": [
+    "33 km",
+    "M62",
+    "1 stundu un 25 minūtes",
+    "2 stundas un 15 minūtes",
+    "Valka",
+    "6 stundas un 50 minūtes",
+    "113 km",
+    "Latvijas - Igaunijas robeža",
+    "Trīs",
+    "Dīzeļvilcienu",
+    "Autoosta",
+    "3223 km",
+    "Cits sliežu platums",
+    "750 mm",
+    "3000 V līdzstrāvas",
+    "600 V līdzstrāvas",
+    "750 mm",
+    "1435 mm",
+    "206,7 km/st",
+    "Rīga - Aizkraukle",
+    "Rīga - Zilupe",
+    "Daugavpilī",
+    "Daugavpilī",
+    "Valmiera",
+    "Viens vilciens",
+    "Līdz Vīnei",
+    "1941. gada 15. maijā",
+    "Baznīca",
+    "750 mm",
+    "Gr",
+    "MI",
+    "1891. gada 25. septembrī",
+    "1899. gadā",
+    "1918. gada 1. maijā",
+    "120 km/h",
+    "90 km/h",
+    "60 km/h",
+    "Rīga - Dubulti",
+    "1950. gadā",
+    "1972. gadā",
+    "H0 (1:87)",
+    " 1891. gadā ",
+    "Hamburgā, Vācijā",
+    "1040 vilcieni",
+    "15 400 metri",
+    "15 400 metri",
+    "155,26 Latvijas lati",
+    "5,70 Latvijas lati",
+    "Brauciena biļete turp un atpakaļ",
+    "Vagons-restorāns",
+    "Rīga - Gulbene - Rītupe - Ļeņingrada (Sankt-Pēterburga);"
+  ],
+  "options": [
+    ["33 km",
+      "50 km",
+      "27 km"
+    ],
+    [ "TU2",
+      "M62",
+      "TU7A"
+    ],
+    [ "2 stundas un 25 minūtes",
+      "1 stundu un 25 minūtes",
+      "25 minūtes"
+    ],
+    ["2 stundas un 15 minūtes",
+      "3 stundas un 25 minūtes",
+      "1 stundu un 25 minūtes"
+    ],
+    [ "Alsviķi",
+      "Ape",
+      "Valka"
+    ],
+    [ "3 stundas un 50 minūtes",
+      "2 stundas un 50 minūtes",
+      "6 stundas un 50 minūtes"
+    ],
+    [ "67 km",
+      "113 km",
+      "50 km"
+    ],
+    ["Latvijas - Igaunijas robeža",
+      "Latvijas - Krievijas robeža;",
+      "Latvijas - Lietuvas robeža;"
+    ],
+    ["Četras",
+      "Trīs",
+      "Neviena"
+    ],
+    ["Dīzeļvilcienu",
+      "Elktrovilcienu",
+      "Akomulatoru vilcienu"
+    ],
+    [ "Veikals",
+      "Viesnīca",
+      "Autoosta"
+    ],
+    [ "1356 km",
+      "5385 km",
+      "3223 km"
+    ],
+    [
+      "Nepietiks degvielas",
+      "Pārāk tālu, lai brauktu ar vilcienu",
+      "Cits sliežu platums"
+    ],
+    ["750 mm",
+      "600 mm",
+      "900 mm"
+    ],
+    [
+      "1500 V līdzstrāvas",
+      "3000 V līdzstrāvas",
+      "25000 V līdzstrāvas"
+    ],
+    ["600 V līdzstrāvas",
+      "1500 V līdzstrāvas",
+      "3000 V līdzstrāvas"
+    ],
+    [ "750 mm",
+      "1435 mm",
+      "1520 mm"
+    ],
+    [
+      "1520 mm",
+      "750 mm",
+      "1435 mm"
+    ],
+    ["406,9 km/st",
+      "574,8 km/st",
+      "206,7 km/st"
+    ],
+    ["Rīga - Jelgava",
+      "Rīga - Aizkraukle",
+      "Rīga - Tukums II"
+    ],
+    ["Rīga - Indra",
+      "Rīga - Zilupe",
+      "Rīga - Liepāja"
+    ],
+    [
+      "Daugavpilī",
+      "Liepājā",
+      "Rīgā"
+    ],
+    [
+      "Liepājā",
+      "Daugavpilī",
+      "Rīgā"
+    ],
+    [
+      "Jūrmalā",
+      "Rīgā",
+      "Valmiera"
+    ],
+    ["Divi vilcieni dienā",
+      "Viens vilciens",
+      "Vilciens nekursēja"
+    ],
+    [
+      "Līdz Vīnei",
+      "Līdz Prāgai",
+      "Līdz Parīzei"
+    ],
+    ["1901. gada 15. maijā",
+      "1922. gada 15. maijā",
+      "1941. gada 15. maijā"
+    ],
+    ["Baznīca",
+      "Veikals",
+      "Viesnīca"
+    ],
+    ["600 mm",
+      "750 mm",
+      "1000 mm"
+    ],
+    [
+      "L",
+      "Gr",
+      "MI"
+    ],
+    ["Gr",
+      "L",
+      "MI"
+    ],
+    [
+      "1891. gada 25. septembrī",
+      "1961. gada 25. septembrī",
+      "1861. gada 25. septembrī"
+    ],
+    ["1850. gadā",
+      "1858. gadā",
+      "1899. gadā"
+    ],
+    ["1919. gada 5. augustā",
+      "1918. gada 1. maijā",
+      "1930. gada 18. novembrī"
+    ],
+
+    ["120 km/h",
+      "100 km/h",
+      "200 km/h"
+    ],
+    ["90 km/h",
+      "80 km/h",
+      "60 km/h;"
+    ],
+    ["60 km/h",
+      "80 km/h",
+      "90 km/h"
+    ],
+    ["Rīga - Dubulti",
+      "Rīga - Ogre",
+      "Rīga - Jelgava"
+    ],
+    ["1950. gadā",
+      "1930. gadā",
+      "1970. gadā"
+    ],
+    ["1972. gadā",
+      "1980. gadā",
+      "1985. gadā"
+    ],
+    ["H0 (1:87)",
+      "TT (1:120)",
+      "N (1:160)"
+    ],
+    [" 1891. gadā ",
+      "1900. gadā",
+      "1905. gadā"
+    ],
+    ["Hamburgā, Vācijā",
+      "Parīzē, Francijā",
+      "Berlīnē, Vācijā"
+    ],
+    ["1040 vilcieni",
+      "100 vilcieni",
+      "550 vilcieni"
+    ],
+    ["15 400 metri",
+      "1 400 metri",
+      "400 metri"
+    ],
+    ["155,26 Latvijas lati",
+      "190,26 Latvijas lati",
+      "89,26 Latvijas lati"
+    ],
+    ["5,70 Latvijas lati",
+      "2,70 Latvijas lati",
+      "11,70 Latvijas lati"
+    ],
+    ["Brauciena biļete turp un atpakaļ",
+      "Vilciena biļete vienā virzienā",
+      "Vilciena mēneša abonementa biļete"
+    ],
+    ["Vagons-restorāns",
+      "Vagons-ēdamzāle",
+      "Vagons-ēdnīca"
+    ],
+    ["Rīga - Gulbene - Rītupe - Ļeņingrada (Sankt-Pēterburga);",
+      "Rīga - Gulbene - Maskava",
+      "Rīga - Gulbene - Pleskava"
+    ]
+  ]
+}
